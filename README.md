@@ -1,6 +1,6 @@
-# fluimc
+# Flutter IMC App
 
-A new Flutter project.
+Este projeto foi desenvolvido com duas interfaces diferentes. Uma para Android e outra para IOS, mas com as mesmas funcionalidades e para isso foi utilizado BloC com Flutter.
 
 ## Getting Started
 
